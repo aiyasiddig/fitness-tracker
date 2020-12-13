@@ -6,5 +6,3 @@
 # Usage
 To use, clone the repo and run "npm install"
 
-# Deployment 
-This app is deployed at:
